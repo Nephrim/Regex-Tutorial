@@ -35,4 +35,4 @@ So with ours, (`/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
 ### Character Escapes
 An escape is shown by a "\" this is used to escape segments before loading into new ones to prevent interuptions. So ours is escaping, (`/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`), right at the end of ([\da-z\.]) before continuing with the statement.
 ## Author
-I'm John or Jack Price and this was an assignment in the coding bootcamp I am currentl
+I'm Keith Whitman and this was an assignment in the coding bootcamp I am currently enrolled
